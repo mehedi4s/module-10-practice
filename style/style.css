@@ -258,7 +258,7 @@ footer{
         margin-bottom: 10px;
     }
     .sponsor{
-        border: 1px solid tomato;
+        border-top: 1px solid rgba(144, 104, 104, 0.733);
         flex-wrap: wrap;
         width: 90%;
         gap: 10px;
